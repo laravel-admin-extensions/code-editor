@@ -13,15 +13,9 @@ class CodeEditor extends Extension
     public static function show()
     {
         return function ($lang, $height = 300) {
+            return $this->noBorder()->unescape()->as(function ($value) use ($lang, $height) {
 
-            $field = $this;
-
-            return $this->unescape()->as(function ($value) use ($field, $lang, $height) {
-
-                $field->border = false;
-
-                $editor = new Editor();
-                $editor->{$lang}();
+                $editor = (new Editor())->{$lang}();
 
                 return admin_view('laravel-admin-code-editor::field', [
                     'value'   => $value,
