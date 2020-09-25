@@ -1,6 +1,9 @@
-Code editor extension for laravel-admin 2.x based on CodeMirror，support `php`、`sql`、`javascript`、`java`、`c`、`cpp`、`csharp`、`objc`、`scala`、`kotlin`、`ceylon`、`python`、`ruby`、`css`、`sass`、`less`、`xml`、`html`、`nginx`、`vuejs`、`lua`、`yaml`、`swift`、`clojure`、`coffeescript`、`protobuf`、`commonlisp`、`dart`、`dockerfile`、`diff`、`rust`、`shell`、`go`、`haml`
+Code editor extension for laravel-admin 2.x based on CodeMirror
 
-基于CodeMirror的代码编辑器，可用于laravel-admin 2.x, 
+Supports `php`、`sql`、`javascript`、`java`、`c`、`cpp`、`csharp`、`objc`、`scala`、`kotlin`、`ceylon`、`python`、`ruby`、`css`、`sass`、`less`、`xml`、`html`、`nginx`、`vuejs`、`lua`、`yaml`、`swift`、`clojure`、`coffeescript`、`protobuf`、`commonlisp`、`dart`、`dockerfile`、`diff`、`rust`、`shell`、`go`、`haml`
+
+基于CodeMirror的代码编辑器，可用于laravel-admin 2.x
+
 支持`php`、`sql`、`javascript`、`java`、`c`、`cpp`、`csharp`、`objc`、`scala`、
 `kotlin`、`ceylon`、`python`、`ruby`、`css`、`sass`、`less`、`xml`、`html`、`nginx`、
 `vuejs`、`lua`、`yaml`、`swift`、`clojure`、`coffeescript`、`protobuf`、`commonlisp`、
