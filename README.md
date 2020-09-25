@@ -33,6 +33,13 @@ Set height:
 $form->php('code')->height(500);
 ```
 
+Use in show page:
+
+```php
+// show as PHP code and 300 height.
+$show->field('code_column')->code('php', 300);
+```
+
 ## Donate
 
 > Help keeping the project development going, by donating a little. Thanks in advance.

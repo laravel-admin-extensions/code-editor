@@ -29,6 +29,22 @@ class Editor extends Textarea
     ];
 
     /**
+     * @return array
+     */
+    public function getRequires()
+    {
+        return $this->require;
+    }
+
+    /**
+     * @return array
+     */
+    public function getOptions()
+    {
+        return $this->options;
+    }
+
+    /**
      * @param array $require
      * @return $this
      */
