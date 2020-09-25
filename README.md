@@ -9,6 +9,8 @@ Supports `php`、`sql`、`javascript`、`java`、`c`、`cpp`、`csharp`、`objc`
 `vuejs`、`lua`、`yaml`、`swift`、`clojure`、`coffeescript`、`protobuf`、`commonlisp`、
 `dart`、`dockerfile`、`diff`、`rust`、`shell`、`go`、`haml`等语言。
 
+![QQ20200925-120900](https://user-images.githubusercontent.com/1479100/94225656-33241980-ff28-11ea-869a-6afd75d683e6.png)
+
 ## Installation 
 
 ```bash
